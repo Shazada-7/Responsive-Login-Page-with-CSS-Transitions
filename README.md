@@ -2,7 +2,8 @@
 
 A clean, modern, and fully responsive login page built with HTML5 and CSS3. This project focuses on a "mobile-first" approach and smooth user experience through CSS transitions.
 
-![SAMPLE GIF](./Responsive Login/assets/GiFF-334.gif)
+![Giff-7767-ezgif com-resize](https://github.com/user-attachments/assets/4d252ec6-3840-42fb-8fd0-79a0e71c27e6)
+
 
 ## 📱 Features
 * **Fully Responsive:** Adapts seamlessly to mobile, tablet, and desktop screens.
